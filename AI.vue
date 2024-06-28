@@ -177,7 +177,7 @@
                         align-items: center;
                       "
                     >
-                      编号
+                      编号数字
                       <camera-icon style="margin-left: auto" />
                       <span id="fishId">Fish 001</span>
                     </div>
