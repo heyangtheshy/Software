@@ -190,7 +190,7 @@
                         align-items: center;
                       "
                     >
-                      鱼种
+                      鱼的种类
                       <light-icon style="margin-left: auto" />
                       <span id="fishSpecies">Goldfish</span>
                     </div>
